@@ -82,7 +82,7 @@ async def help(client: Client, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                        " ʀᴇᴘᴏ ⚒️", url=f"https://github.com/AMANTYA1/RaiChu-MusicV2")
+                        " ʀᴇᴘᴏ ⚒️", url=f"https://t.me/pirokid")
                 ]
             ]
         ),
